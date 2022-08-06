@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf FILEPRO`
-- `git clone https://github.com/YusepXD/FILEPRO`
+- `git clone https://github.com/Yusep-XD/FILEPRO`
 - `cd FILEPRO`
 - `python yusep.py`
      
